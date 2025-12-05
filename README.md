@@ -4,6 +4,9 @@ https://hub.docker.com/r/ys659/assignment11
 # Testing
 pytest
 
+# CI
+<img src="GH Actions.png" width="80%">
+
 # 📦 Project Setup
 
 ---
